@@ -2,6 +2,7 @@
 A playground to experiment and practice ML algorithms, libraries and processes.
 
 ## playground list
+- [fbprophet.ipynb](./notebooks/fbprophet.ipynb): Experiment Time-Series forecasting with Facebook Prophet.
 - [mlflow.ipynb](./notebooks/mlflow.ipynb): A simple sample to prove mlflow is working in this stack.
 
 ## docker-compose
