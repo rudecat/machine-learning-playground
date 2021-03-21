@@ -1,0 +1,13 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+
+joblib
+matplotlib
+numpy
+pandas
+scikit-learn
+fbprophet
+hyperopt
+xgboost
+mlflow
